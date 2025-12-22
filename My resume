@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - X. Precilla Jeny</title>
+</head>
+<body>
+
+    <h1>X. Precilla Jeny</h1>
+    <p><b>Email:</b> yourmail@gmail.com</p>
+    <p><b>Phone:</b> 9XXXXXXXXX</p>
+    <p><b>Location:</b> India</p>
+
+    <hr>
+
+    <h2>Career Objective</h2>
+    <p>
+        I am a motivated student interested in Artificial Intelligence,
+        Data Science, and Web Development. I aim to improve my skills
+        and contribute to real-world projects.
+    </p>
+
+    <h2>Education</h2>
+    <p>
+        <b>Tagore Institute of Engineering and Technology</b><br>
+        B.E / B.Tech (Pursuing)
+    </p>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>MS Word</li>
+        <li>MS Excel</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Resume Skill Analyzer using Python</li>
+        <li>Student Performance Predictor (Mini Project)</li>
+        <li>Personal Portfolio Website</li>
+    </ul>
+
+    <h2>Internship</h2>
+    <p>
+        Online Internship – Introneurals Infotech
+    </p>
+
+    <h2>Certificates</h2>
+    <ul>
+        <li>Communication Skills Certificate</li>
+        <li>Online Internship Certificate</li>
+    </ul>
+
+    <h2>Declaration</h2>
+    <p>
+        I hereby declare that the above information is true and correct
+        to the best of my knowledge.
+    </p>
+
+    <p><b>Signature:</b> X. Precilla Jeny</p>
+
+</body>
+</html>
