@@ -1,2 +1,1 @@
-# Precilla-jeny.x-
-Nothing 
+This resume is about skills and learning process of jeny.
